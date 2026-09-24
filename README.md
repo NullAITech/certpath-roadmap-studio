@@ -2,7 +2,7 @@
 
 > **Intelligent Certification Directed Acyclic Graph (DAG) Solver, Career Roadmap Planner & FastMCP Protocol Server** with Interactive Canvas UI (design influenced by Material 3). Built with **100% pure Python standard library** (zero runtime dependencies).
 
-[![CI](https://github.com/1nc0gn30/certpath-roadmap-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/1nc0gn30/certpath-roadmap-studio/actions/workflows/ci.yml)
+[![CI](https://github.com/NullAITech/certpath-roadmap-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/NullAITech/certpath-roadmap-studio/actions/workflows/ci.yml)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![MCP 2024-11-05](https://img.shields.io/badge/MCP-2024--11--05-green.svg)](https://modelcontextprotocol.io/)
 [![Zero Runtime Dependencies](https://img.shields.io/badge/dependencies-0%20runtime-brightgreen.svg)](#architecture)
@@ -69,7 +69,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/1nc0gn30/certpath-roadmap-studio.git
+git clone https://github.com/NullAITech/certpath-roadmap-studio.git
 cd certpath-roadmap-studio
 
 # No external runtime dependencies required!
@@ -231,4 +231,4 @@ pytest -v
 
 ## 📜 License
 
-MIT License &copy; 2026 1nc0gn30
+MIT License &copy; 2026 NullAITech
